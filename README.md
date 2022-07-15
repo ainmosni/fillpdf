@@ -6,7 +6,7 @@ Currently this library only supports PDF text field values. Feel free to add sup
 
 ## Documentation 
 
-Check the Documentation at [GoDoc.org](https://godoc.org/github.com/desertbit/fillpdf).
+Check the Documentation at [GoDoc.org](https://godoc.org/github.com/ainmosni/fillpdf).
 
 ## Requirements
 
@@ -23,7 +23,7 @@ package main
 import (
 	"log"
 
-	"github.com/desertbit/fillpdf"
+	"github.com/ainmosni/fillpdf"
 )
 
 func main() {

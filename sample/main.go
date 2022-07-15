@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/desertbit/fillpdf"
+	"github.com/ainmosni/fillpdf"
 )
 
 func main() {
